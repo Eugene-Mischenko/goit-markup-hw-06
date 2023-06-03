@@ -776,7 +776,7 @@ p {
   margin-right: 8px;
 }
 
-.checkbox-input:checked + .checkbox-text {
+.checkbox-input:checked + .checkbox-text span {
   background-color: var(--pressed-state);
   border: none;
   fill: var(--white-background);
